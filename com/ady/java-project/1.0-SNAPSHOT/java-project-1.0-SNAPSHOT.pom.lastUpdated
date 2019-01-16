@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 16 12:01:54 CST 2019
+https\://github.com/LYDXY/maven-repository/tree/master/.error=
+https\://github.com/LYDXY/maven-repository/tree/master/.lastUpdated=1547611314772
+https\://repo.rdc.aliyun.com/repository/49440-release-0iWesE/.error=Could not transfer artifact com.ady\:java-project\:pom\:1.0-SNAPSHOT from/to 49440-release-0iWesE (https\://repo.rdc.aliyun.com/repository/49440-release-0iWesE)\: Not authorized
+@default-49440-release-0iWesE-https\://repo.rdc.aliyun.com/repository/49440-release-0iWesE/.lastUpdated=1547611313538
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1547611314266
+https\://repo.spring.io/snapshot/.lastUpdated=1547611313898
